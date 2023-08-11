@@ -26,8 +26,7 @@ Para permitir o envio de e-mails, atualize o endereço de e-mail de envio e a se
 
 ## Contato
 
-Para mais informações, entre em contato:
-Seu Nome - seu.email@example.com
+Para mais informações, entre em contato.
 
 ---
 
